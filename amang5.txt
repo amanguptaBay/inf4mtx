@@ -1,0 +1,2 @@
+Hi my name is Aman. I am a 2nd year Computer Science and Engineering student at UC Irvine.
+Anywho this is my git repo for the discussion on November 18th, 2020.
